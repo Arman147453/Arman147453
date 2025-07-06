@@ -8,7 +8,7 @@
  🔭 I’m currently working as <strong>Senior Executive (Sales & Marketing)</strong> at Travel Destination BD  
 <br>🌱 I’m currently learning <strong>React.js & Advanced JavaScript</strong>  
 <br>👨‍💻 All of my projects are available at <a href="https://github.com/Arman147453?tab=repositories">My GitHub</a>  
-<br>🎓 I am pursuing B.Sc. in CSE from <strong>IUBAT</strong> (CGPA: 3.22)  
+<br>🎓 I am pursuing B.Sc. in CSE from <strong>IUBAT</strong>  
 <br>📫 How to reach me: <a href="mailto:arman57468@gmail.com">arman57468@gmail.com</a>  
 <br>📍 Based in: Uttara, Dhaka, Bangladesh  
 </p>
