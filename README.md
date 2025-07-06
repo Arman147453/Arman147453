@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md. Arman Ahmed</h1>
 <h3 align="center">A passionate Frontend Developer & CSE Graduate from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Goku Coding" width="300" src="https://media.tenor.com/qV4-2FxN4s8AAAAd/goku-coding.gif">
 
 <p align="left"> 
  🔭 I’m currently working as <strong>Senior Executive (Sales & Marketing)</strong> at Travel Destination BD  
