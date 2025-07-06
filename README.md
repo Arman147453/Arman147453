@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arman147453?tab=repositories](https://github.com/Arman147453?tab=repositories)
 
-- 🎓 I am pursuing B.Sc. in CSE from **IUBAT**
+- 🎓 I am pursuing B.Sc. in CSE from **IUBAT - International University of Business Agriculture and Technology**
 
 - 📫 How to reach me **arman57468@gmail.com**
 
