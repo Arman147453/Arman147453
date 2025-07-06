@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python, java, C, C++, C#**
 
-- 👯 I’m looking to collaborate on **exciting frontend projects, beginner-friendly open source contributions, and anything involving HTML, CSS, Bootstrap, or JavaScript.**
+- 🙋🏻‍♂ I’m looking to collaborate on **exciting frontend projects, beginner-friendly open source contributions, and anything involving HTML, CSS, Bootstrap, or JavaScript.**
 
 - 🤝 I’m looking for help with **learning React.js, improving my JavaScript skills, and contributing to real-world frontend projects.**
 
