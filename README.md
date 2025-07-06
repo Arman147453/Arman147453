@@ -1,64 +1,28 @@
-
 <h1 align="center">Hi 👋, I'm Md. Arman Ahmed</h1>
-<h3 align="center">A passionate Frontend Developer & CSE Graduate from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 🔭 I’m currently working in a [Travel Agency](https://www.facebook.com/Traveldestinationbd)
 
-<p align="left"> 
- 🔭 I’m currently working as <strong>Senior Executive (Sales & Marketing)</strong> at Travel Destination BD  
-<br>🌱 I’m currently learning <strong>React.js & Advanced JavaScript</strong>  
-<br>👨‍💻 All of my projects are available at <a href="https://github.com/Arman147453?tab=repositories">My GitHub</a>  
-<br>🎓 I am pursuing B.Sc. in CSE from <strong>IUBAT</strong>  
-<br>📫 How to reach me: <a href="mailto:arman57468@gmail.com">arman57468@gmail.com</a>  
-<br>📍 Based in: Uttara, Dhaka, Bangladesh  
-</p>
+- 🌱 I’m currently learning **python, java, C, C++, C#**
 
----
+- 👯 I’m looking to collaborate on **exciting frontend projects, beginner-friendly open source contributions, and anything involving HTML, CSS, Bootstrap, or JavaScript.**
 
-### 🛠️ Skills
+- 🤝 I’m looking for help with **learning React.js, improving my JavaScript skills, and contributing to real-world frontend projects.**
 
-```bash
-💻 Programming:       C, C++, Java, C#, Python  
-🌐 Web Technologies:  HTML5, CSS3, Bootstrap, JavaScript (Basic)  
-🛢️ Database:          MySQL, SQLite (Basic)  
-🛠 Tools & IDEs:      VS Code, Visual Studio, IntelliJ IDEA, Git & GitHub  
-🔍 Others:            Problem Solving, OOP, Basic Data Structures  
-```
+- 👨‍💻 All of my projects are available at [https://github.com/Arman147453?tab=repositories](https://github.com/Arman147453?tab=repositories)
 
----
+- 🎓 I am pursuing B.Sc. in CSE from **IUBAT**
 
-### 📂 Featured Project
+- 📫 How to reach me **arman57468@gmail.com**
 
-#### ✈️ Airlines Ticket Booking Management System  
-A web-based airline ticket booking system that allows users to search flights, book seats, and manage travel schedules.
+- ⚡ Fun fact **I started coding to build cool projects, but now I spend more time fixing missing semicolons 😅**
 
-🔗 [GitHub Repository](https://github.com/Arman147453/Airlines-Ticket-Booking-Management-System-)
-
----
-
-### 📜 Certifications & Achievements
-
-- 🏆 **Python - Django** Course Certificate  
-- 🤖 **IUBAT Robotics Club - IRC** Certificate  
-
----
-
-### 📬 Connect with me:
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:arman57468@gmail.com"><img src="https://img.shields.io/badge/Gmail-arman57468@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arman-ahmed-4bb1a135b"><img src="https://img.shields.io/badge/LinkedIn-Arman%20Ahmed-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/arman ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman ahmed" height="30" width="40" /></a>
+<a href="https://fb.com/arman ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arman ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/arman ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arman ahmed" height="30" width="40" /></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arman147453&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman147453&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
-
-⭐️ From [Md. Arman Ahmed](https://github.com/Arman147453)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
